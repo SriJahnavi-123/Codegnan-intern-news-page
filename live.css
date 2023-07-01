@@ -1,0 +1,53 @@
+.one{
+    background-color: rgba(189, 183, 107, 0.495);
+    margin:0.5%;
+    border-radius: 30px;
+    font-size: 15px;
+    padding:1%;
+    display: flex;
+}
+.one img{
+    width:600px;
+    margin:5%;
+    
+}
+.class{
+    background-color: black;
+    color:white;
+    border-radius: 30px;
+    width:200px;
+    height:50px;
+    margin:40px;
+    font-size: 20px;
+}
+.class:hover{
+    background-color: darkred;
+}
+.three{
+    background-color:cadetblue;
+    margin:0.5%;
+    border-radius: 30px;
+    font-size: 15px;
+    padding:1%;
+    display: flex;
+}
+.three img{
+    width:600px;
+    margin:5%;
+    
+}
+
+.live{
+    background-color: black;
+    color:white;
+    border-radius: 30px;
+    width:500px;
+    height:50px;
+    margin:50px;
+    font-size: 20px;
+}
+.live:hover{
+    background-color: darkred;
+    
+}
+

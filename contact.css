@@ -1,0 +1,26 @@
+body{
+    background-image: url(./Images/contact.webp);
+    background-size:cover ;
+      height:100vh;
+}
+h1{
+    text-align: center;
+    color:black;
+}
+p{
+    margin:1%;
+    font-size: 30px;
+    color:fuchsia;
+}
+h2{
+    font-size:40px;
+    color:brown;
+}
+.start a{
+    color:darkolivegreen;
+    padding:2%;
+    margin:4%;
+    font-size: 30px;
+}
+
+

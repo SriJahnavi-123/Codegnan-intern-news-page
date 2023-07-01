@@ -1,0 +1,191 @@
+
+body{
+    background-color:azure;
+}  
+header{
+    position: sticky;
+    top: 0; 
+    background-color:darkgrey;   
+}
+
+.h1{
+    text-align: center;
+}
+
+
+.navbar a{
+    margin-left:150px;
+    text-decoration: none;
+    color:rgb(0, 0, 0);
+    font-family:'noto sans kr',sans-serif;
+    margin:3%;  
+    font-size: 20px;  
+}
+.navbar a:hover{
+    color:blue
+}
+.navbar{
+    background-color: white;
+     text-align: center;
+     display: flex;
+}
+form{
+    padding:4%;
+    
+}
+.navbar img{
+    width:90px;
+
+}
+.sign{
+    background-color:skyblue;
+    color:black;
+    border-radius: 50px;
+    border-color:skyblue;
+    width:90px;
+    height:40px;
+}
+.sign:hover{
+    background-color:black;
+    color:white;
+    border-color: black;
+}
+.one{
+    display:flex;
+    background-color:aliceblue;
+    margin:2%;
+    border-radius: 10px;
+    
+}
+.one img{
+    width:400px;
+}
+.two a{
+    font-size:20px;
+    color:brown;
+}
+.three{
+    display:flex;
+    background-color:aliceblue;
+    margin:2%;
+    border-radius: 10px;
+    
+}
+.four img{
+    width:400px;
+}
+.three a{
+    font-size:20px;
+    color:brown;
+
+}
+
+.six{
+    display:flex;
+    background-color:aliceblue;
+    margin:2%;
+    border-radius: 10px;
+    
+}
+.six img{
+    width:400px;
+}
+.seven a{
+    font-size:20px;
+    color:brown;
+}
+
+.eight{
+    display:flex;
+    border-radius: 30px;
+}
+.nine{
+    background-color:rgba(139, 0, 139, 0.493);
+    margin:0.5%;
+    border-radius: 20px;
+    font-size: 15px;
+    padding:1%;
+
+}
+.nine img{
+    width:500px;
+    margin:5%;
+}
+.ten{
+    background-color: rgba(189, 183, 107, 0.495);
+    margin:0.5%;
+    border-radius: 30px;
+    font-size: 15px;
+    padding:1%;
+}
+.ten img{
+    width:500px;
+    margin:5%;
+    
+}
+.class{
+    background-color: black;
+    color:white;
+    border-radius: 30px;
+    width:200px;
+    height:50px;
+    margin:40px;
+    font-size: 20px;
+}
+.class:hover{
+    background-color: darkred;
+}
+.news1{
+    display: flex;
+}
+.line{
+    background-color: rgba(127, 255, 212, 0.354);
+    margin:1%;
+}
+#h1{
+    color:darkblue;
+    padding:2%;
+}
+.news1 img{
+    width:200px;
+}
+#news{
+    background-color:cornflowerblue;
+    color:chartreuse;
+    border-radius: 20px;
+    margin:3%;
+    padding:2%;
+}
+#news:hover{
+    background-color: rgba(128, 255, 0, 0.42);
+    color:cornflowerblue;
+}
+.show{
+    background-color: black;
+    color:white;
+    border-radius: 40px;
+    width:200px;
+    height:40px;
+    margin:4%;   
+}
+.last{
+    background-color: black;
+    color:white;   
+}
+.last a{
+    color:brown;
+}
+.footer{
+    text-align: right;
+    padding:5%;
+}
+footer img{
+    border-radius:16px;
+    width:55px;
+    padding:1%;
+}
+.copyright{
+    font-size: 20px;
+}
+
+
